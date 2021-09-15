@@ -1,0 +1,12 @@
+buenas tardes o dias, soy Francisco JAvier Gonzalez Vargas. escribo este bloc de notas 
+para agradecer por esta oportunidad de trabajo. y realmente me gusto mucho ya que aprendi
+cosas nuevas dentro del proyecto como el TYPSCRIP Y ANGULAR ya que yo no manejaba las herramientas
+para hacerlo. di lo mejor de mi anuque me hubiera gustado completarlo por completo aprendi mucho
+con este proyecto y me gustaria seguir asi. y aprender mas cosas
+
+COSAS AL TOMAR EL CONSIDERACION EL PROYECTO:
+use los IDI de springtoolsuit para crear las entradas a la base de datos y el servio del del api y de la base esta 
+conectado junto con el IDI del VISUAL CODE para que pueda hacer los cambios. y pueda ejecutarse el proyecto completo
+
+muchas gracias 
+
